@@ -1,3 +1,5 @@
 console.log('Đây là master');
 
-console.log('devBranch');
+var dePloy = function(){
+    console.log('deployBranch');
+}
