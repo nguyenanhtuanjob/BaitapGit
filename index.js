@@ -7,7 +7,3 @@ var devLop = function(){
 var test = function(){
     console.log('testBranch');
 }
-
-var dePloy = function(){
-    console.log('deployBranch');
-}
