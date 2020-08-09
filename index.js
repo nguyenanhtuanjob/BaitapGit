@@ -16,3 +16,7 @@ var devBranch = function(){
 var checkTask = function(){
     console.log('testTask');
 }
+
+var doneTask= function(){
+    console.log('doneTask');
+}
